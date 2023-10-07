@@ -4,3 +4,5 @@ def new {
 }
 
 # new func
+
+# func 2
